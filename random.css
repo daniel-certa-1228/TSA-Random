@@ -1,0 +1,26 @@
+body {
+	background-color: lightsteelblue;
+	font-family: sans-serif;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	text-decoration: underline;
+}
+.arrow-box {
+	background-color: yellow;
+	text-align: center;
+	display: block;
+	height: 560px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.arrow{
+	font-weight: bold;
+	font-size: 25rem;
+	margin: 0;
+}
